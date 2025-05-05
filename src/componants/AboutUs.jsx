@@ -6,7 +6,7 @@ function AboutUs() {
       <h2 className="fw-bold mb-4">About Us</h2>
       <div className="card h-100">
         <img
-          src="/src/assets/banner1.jpg"
+          src="/assets/banner1.jpg"
           className="card-img-top"
           style={{
             width: "100%",
