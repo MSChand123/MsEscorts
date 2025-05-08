@@ -31,7 +31,7 @@ function App() {
 
       {/* Routes */}
       <Routes>
-        <Route path="/msescorts" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/about" element={<AboutsUs />} />
         <Route path="/escort/:name" element={<DetailPage />} />
         <Route path="/city/:cityName" element={<CityDetails />} />

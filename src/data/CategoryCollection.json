@@ -1,4 +1,4 @@
 [
-  { "id": 1, "name": "Dating", "image": "/msescorts/assets/dating.png" },
-  { "id": 2, "name": "Service", "image": "/msescorts/assets/Service.jpg" }
+  { "id": 1, "name": "Dating", "image": "/assets/dating.png" },
+  { "id": 2, "name": "Service", "image": "/assets/Service.jpg" }
 ]
